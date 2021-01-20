@@ -464,10 +464,10 @@
     "@typescript-eslint/types" "4.13.0"
     eslint-visitor-keys "^2.0.0"
 
-"@vitejs/plugin-vue@~1.0":
-  version "1.0.6"
-  resolved "https://registry.yarnpkg.com/@vitejs/plugin-vue/-/plugin-vue-1.0.6.tgz#698afa5a77a6dcd22cf7757801f46a6f01cdbb53"
-  integrity sha512-cWJewtxnVVpjlhq6DoZ7VP7sF1jTZYVg66ehslZ0tJANWk1uRiCXdqD8yQ4npZ4XewDICQzK+c+9i3Xsubx59w==
+"@vitejs/plugin-vue@~1.1":
+  version "1.1.0"
+  resolved "https://registry.yarnpkg.com/@vitejs/plugin-vue/-/plugin-vue-1.1.0.tgz#8ae0b11388897b07259c9e5198c0e3fb5e4b37d9"
+  integrity sha512-ExlAt3nb3PB31jV9AgRZSMoGd+aQRU53fc/seghV8/l0JCzaX2mqlgpG8iytWkRxbBPgtAx4TpCPdiVKnTFT/A==
 
 "@vue/compiler-core@3.0.5", "@vue/compiler-core@^3.0.0", "@vue/compiler-core@^3.0.1", "@vue/compiler-core@^3.0.2":
   version "3.0.5"
